@@ -1,0 +1,15 @@
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/bin/Debug/net7.0/Web-.NET-AT-Exerc02
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/bin/Debug/net7.0/Web-.NET-AT-Exerc02.deps.json
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/bin/Debug/net7.0/Web-.NET-AT-Exerc02.runtimeconfig.json
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/bin/Debug/net7.0/Web-.NET-AT-Exerc02.dll
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/bin/Debug/net7.0/Web-.NET-AT-Exerc02.pdb
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.csproj.AssemblyReference.cache
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.AssemblyInfoInputs.cache
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.AssemblyInfo.cs
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.csproj.CoreCompileInputs.cache
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.dll
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/refint/Web-.NET-AT-Exerc02.dll
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.pdb
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/Web-.NET-AT-Exerc02.genruntimeconfig.cache
+/Users/williamsantanadeamorim/Projects/Web-.NET-AT-Exerc02/Web-.NET-AT-Exerc02/obj/Debug/net7.0/ref/Web-.NET-AT-Exerc02.dll
